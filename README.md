@@ -4,11 +4,14 @@ Welcome ! This project is a collaboration with wings for science, l'Observatoire
 
 # Installation
 
-# Detailed instruction is coming soon.
-Sensors list
+Detailed instruction is coming soon.
 
-# Sensor list is coming soon.
-Power consumption
+# Sensors list
+
+Sensor list is coming soon.
+
+# Power consumption
+
 
 # Credits
 Air sensor code is an open source project under MIT's FabLab fondation copyright. The team is composed of Adrien and Clémentine, Aurélie Colomb, Benoit Debaque, Paco Diéderich, Hari Randrianarissoa, Béatrice Cassard.
